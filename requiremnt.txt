@@ -1,0 +1,15 @@
+pdfplumber 
+python-docx 
+nltk
+langchain
+langgraph
+langchain-core
+langchain-community
+ipykernel
+langchain-ollama
+langchain-groq
+ollama
+python-dotenv
+langchain-huggingface
+sentence_transformers
+faiss-cpu
